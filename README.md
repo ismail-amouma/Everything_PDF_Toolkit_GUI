@@ -1,4 +1,4 @@
-# I Love PDF Toolkit GUI
+# Everything PDF Toolkit GUI
 
 This is a simple graphical user interface (GUI) for the "I Love PDF" toolkit that provides various functionalities to work with PDF documents. The GUI is built using the Tkinter library for Python and includes the following features:
 
